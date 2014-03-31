@@ -1,0 +1,7 @@
+*.pyc
+dist/
+dockerstack_agent.egg-info/
+_apps/
+test/*.tgz
+build/
+.vagrant/
