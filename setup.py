@@ -18,7 +18,7 @@ setup(
     long_description='',
     author='Adam Thurlow',
     author_email='thurloat@gmail.com',
-    url='https://bitbucket.org/clouda/dockerstack',
+    url='https://github.com/cloudbrewery/dockerstack',
     packages=packages,
     scripts=['bin/dockerstack'],
     classifiers=(
